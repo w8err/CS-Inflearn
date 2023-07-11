@@ -1,0 +1,8 @@
+C:\Inflearn\Array_Dictionary\List_1\bin\Debug\List_1.exe.config
+C:\Inflearn\Array_Dictionary\List_1\bin\Debug\List_1.exe
+C:\Inflearn\Array_Dictionary\List_1\bin\Debug\List_1.pdb
+C:\Inflearn\Array_Dictionary\List_1\obj\Debug\List_1.csproj.AssemblyReference.cache
+C:\Inflearn\Array_Dictionary\List_1\obj\Debug\List_1.csproj.SuggestedBindingRedirects.cache
+C:\Inflearn\Array_Dictionary\List_1\obj\Debug\List_1.csproj.CoreCompileInputs.cache
+C:\Inflearn\Array_Dictionary\List_1\obj\Debug\List_1.exe
+C:\Inflearn\Array_Dictionary\List_1\obj\Debug\List_1.pdb

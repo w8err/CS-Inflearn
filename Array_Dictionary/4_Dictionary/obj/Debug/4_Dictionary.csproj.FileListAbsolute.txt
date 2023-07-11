@@ -1,0 +1,8 @@
+C:\Inflearn\Array_Dictionary\4_Dictionary\bin\Debug\4_Dictionary.exe.config
+C:\Inflearn\Array_Dictionary\4_Dictionary\bin\Debug\4_Dictionary.exe
+C:\Inflearn\Array_Dictionary\4_Dictionary\bin\Debug\4_Dictionary.pdb
+C:\Inflearn\Array_Dictionary\4_Dictionary\obj\Debug\4_Dictionary.csproj.AssemblyReference.cache
+C:\Inflearn\Array_Dictionary\4_Dictionary\obj\Debug\4_Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Inflearn\Array_Dictionary\4_Dictionary\obj\Debug\4_Dictionary.csproj.CoreCompileInputs.cache
+C:\Inflearn\Array_Dictionary\4_Dictionary\obj\Debug\4_Dictionary.exe
+C:\Inflearn\Array_Dictionary\4_Dictionary\obj\Debug\4_Dictionary.pdb
