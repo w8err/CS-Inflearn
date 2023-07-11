@@ -1,0 +1,8 @@
+C:\Inflearn\Array_Dictionary\Array_2\bin\Debug\Array_2.exe.config
+C:\Inflearn\Array_Dictionary\Array_2\bin\Debug\Array_2.exe
+C:\Inflearn\Array_Dictionary\Array_2\bin\Debug\Array_2.pdb
+C:\Inflearn\Array_Dictionary\Array_2\obj\Debug\Array_2.csproj.AssemblyReference.cache
+C:\Inflearn\Array_Dictionary\Array_2\obj\Debug\Array_2.csproj.SuggestedBindingRedirects.cache
+C:\Inflearn\Array_Dictionary\Array_2\obj\Debug\Array_2.csproj.CoreCompileInputs.cache
+C:\Inflearn\Array_Dictionary\Array_2\obj\Debug\Array_2.exe
+C:\Inflearn\Array_Dictionary\Array_2\obj\Debug\Array_2.pdb

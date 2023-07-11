@@ -1,0 +1,8 @@
+C:\Inflearn\Array_Dictionary\Array_Dictionary\bin\Debug\Array_Dictionary.exe.config
+C:\Inflearn\Array_Dictionary\Array_Dictionary\bin\Debug\Array_Dictionary.exe
+C:\Inflearn\Array_Dictionary\Array_Dictionary\bin\Debug\Array_Dictionary.pdb
+C:\Inflearn\Array_Dictionary\Array_Dictionary\obj\Debug\Array_1.csproj.AssemblyReference.cache
+C:\Inflearn\Array_Dictionary\Array_Dictionary\obj\Debug\Array_1.csproj.SuggestedBindingRedirects.cache
+C:\Inflearn\Array_Dictionary\Array_Dictionary\obj\Debug\Array_1.csproj.CoreCompileInputs.cache
+C:\Inflearn\Array_Dictionary\Array_Dictionary\obj\Debug\Array_Dictionary.exe
+C:\Inflearn\Array_Dictionary\Array_Dictionary\obj\Debug\Array_Dictionary.pdb
